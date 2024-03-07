@@ -1,1 +1,1 @@
-# LidlWein
+# AppliedAI_Wein
